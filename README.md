@@ -34,8 +34,8 @@ This will take a long time esspecially if you are running Linux on WSL or you ha
 
 Clone this repo:
 ```
-git clone https://github.com/eliasbenb/torrentbot/
-cd TorrentBot
+git clone https://github.com/destiny6520/TorrentBot-1.git
+cd TorrentBot-1
 ```
 For WSL users:
 - If you are on WSL you will need to install a file explorer
